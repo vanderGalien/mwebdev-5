@@ -1,4 +1,4 @@
-import ipadpro from '../images/ipad_pro.png';
+import ipadpro from './ipad_pro.png';
 
 function addImage() {
     const body = document.querySelector('body');
